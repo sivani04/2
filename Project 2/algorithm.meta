@@ -1,0 +1,16 @@
+{
+	"inputDirs": ["DATA_DIR"],
+	"startScript": "main.py",
+	"parameter": [
+        {
+            "key": "type1_list",
+            "value": "AppGallery &amp; Games^music",
+            "tooltip": "Business scopes (type1 list) for training"
+        },
+        {
+            "key": "preprocessed",
+            "value": "true",
+            "tooltip": "use preprocessed data or not"
+        }
+	]
+}
